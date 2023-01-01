@@ -21,10 +21,10 @@
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "@babel/preset-react": "^7.9.4",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^8.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-styleguidist": "^11.0.6",
-    "webpack": "^4.43.0"
+    "react-styleguidist": "^11.2.0",
+    "webpack": "^5.75.0"
   }
 }
